@@ -2,5 +2,6 @@
 first repository
 
 What's New:
-Added a readme-edits
+Added a <em>readme-edits</em>
+<br>
 Expanded on README.md
